@@ -1,3 +1,5 @@
+--use blink dagger to your cursor when you click or hold mouse wheel button.
+
 require("libs.Utils")
 
 local active=false
